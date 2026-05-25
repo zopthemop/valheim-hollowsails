@@ -11,6 +11,7 @@ public class Plugin : BaseUnityPlugin
 	public const string ModGUID = "zopthemop.hollowsails";
 	public const string ModName = "Hollow Sails";
 	public const string ModVersion = "1.0.0";
+	public const string ModDescription = "Makes sails mainly see-through (only edges visible)";
 
 	private static readonly HashSet<string> SailTextureNames = new HashSet<string>
 	{

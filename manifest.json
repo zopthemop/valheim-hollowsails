@@ -1,0 +1,7 @@
+{
+  "name": "HollowSails",
+  "description": "Makes sails mainly see-through (only edges visible)",
+  "version_number": "1.0.0",
+  "dependencies": [],
+  "website_url": "https://github.com/zopthemop/valheim-hollowsails"
+}
